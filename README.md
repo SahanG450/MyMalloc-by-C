@@ -108,9 +108,6 @@ Memory block not allocated or already freed.
 - The memory array size (`MEMORY_SIZE`) can be adjusted to suit specific requirements.
 - Error handling has been implemented to ensure robustness.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
-
 ## Acknowledgments
 This implementation was created to demonstrate custom memory management techniques and error handling in C.
 
